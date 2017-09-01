@@ -1,12 +1,7 @@
-setwd("/rstudio/everron/exports_data/stages/")
-Sys.setenv(TZ="Europe/Paris")
-# Chargement des packages
 library(data.table)
 library(dplyr)
 library(httr)
-library(lubridate)
-library(stringr)
-library(stringi)
+library(lubridate
 library(jsonlite)
 
 date = Sys.Date()
