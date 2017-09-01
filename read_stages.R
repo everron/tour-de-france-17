@@ -1,6 +1,3 @@
-setwd("/Users/everron/Documents/Perso/tour-de-france-17//")
-Sys.setenv(TZ="Europe/Paris")
-# Chargement des packages
 library(data.table)
 library(tidyverse)
 library(readr)
